@@ -45,5 +45,5 @@ I'm a **MERN Stack Developer** with hands-on experience in building modern web a
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=srijan0412&color=brightgreen)
 
