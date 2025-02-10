@@ -1,7 +1,4 @@
 # Hi there! 👋 I'm Srijan Soni
-
-I'm a **MERN Stack Developer** with hands-on experience in building modern web applications. I enjoy working with technologies like **HTML**, **CSS**, **JavaScript**, **React JS**, **Node.js**, **MongoDB**, and **Express.js** to create high-performance, scalable web apps.
-
 ---
 
 ![Srijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
